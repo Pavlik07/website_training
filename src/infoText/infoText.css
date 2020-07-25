@@ -1,0 +1,14 @@
+.invisible{
+    color: white;
+}
+
+.opisanie{
+    margin-top: -0.4rem;
+    margin-left: 0.5rem;
+  }
+  
+  .vremeni-nazad{
+    margin-left: 0.5rem;
+    font-size: 1.2rem;
+    color: #979797;
+  }

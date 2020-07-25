@@ -1,0 +1,20 @@
+.send{
+    color: rgb(236, 126, 0);
+    border: none;
+    margin-left: 0.5rem;
+    outline-color: yellowgreen;
+  }
+
+  .comment{
+    width: 100%;
+    border: none;
+    font-size: 3vh;
+    color: #979797;
+    margin: 0%;
+    outline-color: rgb(177, 177, 177);
+  }
+
+  .textarea{
+      margin-left: 0.4rem;
+      margin-top: 2.7rem;
+  }

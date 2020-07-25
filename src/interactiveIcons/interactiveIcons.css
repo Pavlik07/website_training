@@ -1,0 +1,46 @@
+/* INTERACTIVE ICONS */
+.interactive-icons{
+    display: inline-block;
+  }
+  
+  .heart{
+    float: left;
+    width: 100%;
+    margin-left: 0rem;
+    float: left;
+  }
+
+  .heart2{
+    float: left;
+    width: 100%;
+    margin-left: 0rem;
+  }
+
+  .heartButton{
+    border:none;
+    width:12%;
+    height:100%;
+    margin-right: 0;
+    outline: none;
+    float:left;
+  }
+
+  .nravitsa{
+      font-size: 1rem;
+      margin-top: -0rem;
+      margin-left: 0.5rem;
+      float: left;
+  }
+  
+  .sms{
+    position: relative;
+    float: left;
+    width: 10%;
+  }
+  
+  .call{
+    margin-top: 1%;
+    float: left;
+    width: 8%;
+    margin-left: 0.5rem;
+  }
